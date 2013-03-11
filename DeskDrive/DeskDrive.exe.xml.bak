@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  The format for the culture name is "<languagecode2>-<country/regioncode2>", where <languagecode2>
+  is the language code and <country/regioncode2> is the subculture code. Examples include "ja-JP" 
+  for Japanese (Japan) and "en-US" for English (United States). In cases where a two-letter language 
+  code is not available, a three-letter code derived from ISO 639-2 is used.
+  
+  A neutral culture is specified by only the two-digit lowercase language code. For example, "fr" 
+  specifies the neutral culture for French, and "de" specifies the neutral culture for German.
+-->
+<resources>
+  <strings>
+    <notifyIcon>
+      <default>Desk Drive</default>
+    </notifyIcon>
+    <showToolStripMenuItem>
+      <default>Settings...</default>
+      <de>Einstellungen...</de>
+      <it>Impostazioni...</it>
+      <sl>Nastavitve...</sl>
+      <ja>設定 ...</ja>
+      <fi>Asetukset...</fi>
+      <zh-Hans>设置 ...</zh-Hans>
+      <pt-BR>Opções...</pt-BR>
+      <fr>Paramètres</fr>
+      <gl>Configuración...</gl>
+      <es>Configuración...</es>
+      <ar-SY>عدادات...</ar-SY>
+      <hr>Postavke...</hr>
+      <nl-BE>Instellingen...</nl-BE>
+    </showToolStripMenuItem>
+    <exitToolStripMenuItem>
+      <default>Exit</default>
+      <de>Beenden</de>
+      <it>Esci</it>
+      <sl>Zaključi</sl>
+      <ja>終了</ja>
+      <fi>Lopeta</fi>
+      <zh-Hans>退出</zh-Hans>
+      <pt-BR>Sair</pt-BR>
+      <fr>Quittter</fr>
+      <gl>Salir</gl>
+      <es>Salir</es>
+      <ar-SY>خروج</ar-SY>
+      <hr>Zatvori</hr>
+      <nl-BE>Verlaten</nl-BE>
+    </exitToolStripMenuItem>
+    <hideButton>
+      <default>OK</default>
+      <sl>DA</sl>
+      <ar-SY>حسنا</ar-SY>
+      <hr>Prihvati</hr>
+    </hideButton>
+    <label1>
+      <default>Desk Drive</default>
+    </label1>
+    <label2>
+      <default>Copyright © 2008 Blue Onion Software</default>
+      <zh-Hans>版权 © 2008 Blue Onion 软件</zh-Hans>
+    </label2>
+    <label3>
+      <default>All rights reserved</default>
+      <de>Alle Rechte vorbehalten</de>
+      <it>Tutti i diritti riservati</it>
+      <sl>Vse pravice zadržane</sl>
+      <fi>Kaikki oikeudet pidätetään</fi>
+      <zh-Hans>版权所有</zh-Hans>
+      <pt-BR>Todos os direitos reservados</pt-BR>
+      <fr>Tous droits réservés</fr>
+      <gl>Tódolos dereitos reservados</gl>
+      <es>Todos los derechos reservados</es>
+      <ar-SY>ترجمة ماجد الحسين</ar-SY>
+      <hr>Sva prava pridržana</hr>
+    </label3>
+    <label4>
+      <default>TM</default>
+    </label4>
+    <CDCheckBox>
+      <default>CD ROM</default>
+      <de>CD-ROM</de>
+      <it>CD ROM</it>
+      <sl>Zgoščenka</sl>
+      <fi>CD-asemat</fi>
+      <fr>CD-ROM</fr>
+      <hr>CD-ROM</hr>
+      <nl-BE>CD-Rom</nl-BE>
+    </CDCheckBox>
+    <RemovableCheckBox>
+      <default>Removable</default>
+      <de>Entfernbare Medien</de>
+      <it>Dischi rimovibili</it>
+      <sl>Izmenljiv</sl>
+      <ja>リムーバブルディスク</ja>
+      <fi>Siirrettävät</fi>
+      <zh-Hans>移动盘</zh-Hans>
+      <pt-BR>Removível</pt-BR>
+      <fr>Amovible</fr>
+      <gl>Extraíble</gl>
+      <es>Extraíble</es>
+      <ar-SY>قابل للإزالة</ar-SY>
+      <hr>Eksterni</hr>
+      <nl-BE>Verwisselbare media</nl-BE>
+    </RemovableCheckBox>
+    <FixedCheckBox>
+      <default>Fixed</default>
+      <de>Feste Medien</de>
+      <it>Dischi rigidi</it>
+      <sl>Fiksne enote</sl>
+      <ja>固定ディスク</ja>
+      <fi>Paikalliset</fi>
+      <zh-Hans>本地驱动器</zh-Hans>
+      <pt-BR>Fixo</pt-BR>
+      <fr>Fixe (interne)</fr>
+      <gl>Fixa</gl>
+      <es>Fija</es>
+      <ar-SY>ثابت</ar-SY>
+      <hr>Fiksni</hr>
+      <nl-BE>Vaste media</nl-BE>
+    </FixedCheckBox>
+    <NetworkedCheckBox>
+      <default>Networked</default>
+      <de>Netzlaufwerke</de>
+      <it>Unità in Rete</it>
+      <sl>Mrežni pogoni</sl>
+      <ja>ネットワークドライブ</ja>
+      <fi>Verkkolevyt</fi>
+      <zh-Hans>网络驱动器</zh-Hans>
+      <pt-BR>Unidade de Rede</pt-BR>
+      <fr>Réseau</fr>
+      <gl>Unidade de rede</gl>
+      <es>Unidad de red</es>
+      <ar-SY>على الشبكة</ar-SY>
+      <hr>Mrežni</hr>
+      <nl-BE>Netwerklocaties</nl-BE>
+    </NetworkedCheckBox>
+    <RamCheckBox>
+      <default>RAM</default>
+      <de>RAM</de>
+      <it>Dischi RAM</it>
+      <sl>Spomin</sl>
+      <zh-Hans>RAM盘</zh-Hans>
+      <fr>RAM (mémoire)</fr>
+      <ar-SY>رام</ar-SY>
+      <nl-BE>RAM</nl-BE>
+    </RamCheckBox>
+    <label5>
+      <default>Version 1.6.5</default>
+      <de>Version 1.6.5</de>
+      <it>Versione 1.6.5</it>
+      <sl>Verzija 1.6.5</sl>
+      <ja>バージョン 1.6.5</ja>
+      <fi>Versio 1.6.5</fi>
+      <zh-Hans>版本 1.6.5</zh-Hans>
+      <pt-BR>versão 1.6.5</pt-BR>
+      <fr>version 1.6.5</fr>
+      <gl>Versión 1.6.5</gl>
+      <es>Versión 1.6.5</es>
+      <ar-SY>الإصدار 1.6.5</ar-SY>
+      <hr>Verzija 1.6.5</hr>
+      <nl-BE>Versie 1.6.5</nl-BE>
+    </label5>
+    <label6>
+      <default>Automatic drive/media shortcuts for your desktop</default>
+      <de>Automatische Laufwerks-/Medienverknüpfungen für Ihren Desktop</de>
+      <it>Collegamenti automatici per drive/media sul desktop</it>
+      <sl>Avtomatično bližnice na ekran</sl>
+      <ja>デスクトップにドライブ/メディアのショートカットを自動作成</ja>
+      <fi>Asemien pikakuvakkeet automaattisesti työpöydällesi</fi>
+      <zh-Hans>向桌面自动添加/移除驱动器图标</zh-Hans>
+      <pt-BR>Atalhos automáticos de unidade/mídia para o desktop</pt-BR>
+      <fr>Raccourcis automatiques des disques/médias pour votre bureau</fr>
+      <gl>Accesos directos automáticos a discos e medios no teu escritorio</gl>
+      <es>Accesos directos automáticos a discos y medios en tu escritorio</es>
+      <ar-SY>قرص تلقائي/اختصارات تلقائية إلى سطح المكتب</ar-SY>
+      <hr>Automatske prečice pogona/medija na vašem desktopu</hr>
+      <nl-BE>Automatische schijf/mediasnelkoppeling op de desktop</nl-BE>
+    </label6>
+    <linkLabel1>
+      <default>http://blueonionsoftware.com/deskdrive.aspx</default>
+    </linkLabel1>
+    <groupBox1>
+      <default>Enable</default>
+      <de>Aktivieren</de>
+      <it>Abilita per</it>
+      <sl>Vklopi</sl>
+      <ja>対象ドライブ</ja>
+      <fi>Ota käyttöön</fi>
+      <zh-Hans>监控</zh-Hans>
+      <pt-BR>Ativar</pt-BR>
+      <fr>Activer</fr>
+      <gl>Activar</gl>
+      <es>Activar</es>
+      <ar-SY>تمكين</ar-SY>
+      <hr>Omogući za</hr>
+      <nl-BE>Inschakelen</nl-BE>
+    </groupBox1>
+    <label7>
+      <default>Exclude</default>
+      <de>Ausschließen</de>
+      <it>Escludi</it>
+      <sl>Izklopi</sl>
+      <ja>除外ドライブ</ja>
+      <fi>Älä käytä</fi>
+      <zh-Hans>排除</zh-Hans>
+      <pt-BR>Excluir</pt-BR>
+      <fr>Exclure</fr>
+      <gl>Excluír</gl>
+      <es>Excluír</es>
+      <ar-SY>استثناء</ar-SY>
+      <hr>Isključi</hr>
+      <nl-BE>Uitgezonderd</nl-BE>
+    </label7>
+    <label8>
+      <default>( example: C:\, D:\ )</default>
+      <de>( Beispiel: C:\, D:\ )</de>
+      <it>( esempio: C:\, D:\ )</it>
+      <sl>( Primer: C:\, D:\ )</sl>
+      <ja>( 例: C:\, D:\ )</ja>
+      <fi>(esim: C:\, D:\)</fi>
+      <zh-Hans>( 例如: C:\, D:\ )</zh-Hans>
+      <pt-BR>( exemplo: C:\, D:\ )</pt-BR>
+      <fr>( Exemple : C:\, D:\ )</fr>
+      <gl>( Exemplo: C:\, D:\ )</gl>
+      <es>( Ejemplo: C:\, D:\ )</es>
+      <ar-SY>( مثال: C:\, D:\ )</ar-SY>
+      <hr>( primjer: C:\, D:\ )</hr>
+      <nl-BE>( Bijvoorbeeld: C:\, D:\</nl-BE>
+    </label8>
+    <HideTrayCheckBox>
+      <default>Hide tray icon</default>
+      <de>Tray-Icon verstecken</de>
+      <it>Nascondi icona del tray</it>
+      <sl>Skri ikono statusne vrstice</sl>
+      <ja>トレイアイコンを隠す</ja>
+      <fi>Piilota kuvake</fi>
+      <zh-Hans>隐藏托盘图标</zh-Hans>
+      <pt-BR>Ocultar ícone de bandeja</pt-BR>
+      <fr>Cacher l'icône du tray</fr>
+      <gl>Oculta icono da bandexa</gl>
+      <es>Ocultar icono de la bandeja</es>
+      <ar-SY>إخفاء الايقونة</ar-SY>
+      <hr>Sakrij ikonu statusne trake</hr>
+      <nl-BE>Verberg taakbalkpictogram</nl-BE>
+    </HideTrayCheckBox>
+    <StartupCheckBox>
+      <default>Run on startup</default>
+      <de>Bei Systemstart ausführen</de>
+      <it>Lancia all'avvio</it>
+      <sl>Zaženi skupaj z okni</sl>
+      <ja>システム起動時に実行</ja>
+      <fi>Autom. käynnistys</fi>
+      <zh-Hans>随系统启动</zh-Hans>
+      <pt-BR>Iniciar automaticamente</pt-BR>
+      <fr>Lancer au démarrage</fr>
+      <gl>Iniciar ao arrancar</gl>
+      <es>Iniciar al arrancar</es>
+      <ar-SY>البدء تلقائياً</ar-SY>
+      <hr>Pokreni pri podizanju sistema</hr>
+      <nl-BE>Uitvoeren bij opstarten</nl-BE>
+    </StartupCheckBox>
+    <DeskDrive>
+      <default>Desk Drive</default>
+    </DeskDrive>
+    <minimizeAllCheckBox>
+      <default>Minimize all windows</default>
+      <de>Alle Fenster minimieren</de>
+      <it>Riduci a icona tutte le finestre</it>
+      <sl>Minimiziraj okno</sl>
+      <ja>すべてのウィンドウを最小化</ja>
+      <fi>Pienennä ikkunat</fi>
+      <zh-Hans>插入U盘时最小化所有窗口</zh-Hans>
+      <pt-BR>Minimizar todas as janelas</pt-BR>
+      <fr>Réduire toutes les fenêtres</fr>
+      <gl>Minimizar tódalas fiestras</gl>
+      <es>Minimizar todas las ventanas</es>
+      <ar-SY>تصغير كافة النوافذ</ar-SY>
+      <hr>Minimiziraj sve prozore</hr>
+      <nl-BE>Verberg alle vensters</nl-BE>
+    </minimizeAllCheckBox>
+    <locusEffectCheckBox>
+      <default>Show positional effect</default>
+      <de>Symbolorte hervorheben</de>
+      <it>Evidenzia con animazione</it>
+      <sl>Show positional effect</sl>
+      <ja>ローカス(locus)効果をオン</ja>
+      <fi>Näytä sijaintitehoste</fi>
+      <zh-Hans>光晕定位效果</zh-Hans>
+      <pt-BR>Mostrar efeito de localização</pt-BR>
+      <fr>Afficher l'effet de position</fr>
+      <gl>Amosar animación de posición</gl>
+      <es>Mostrar animación de posición</es>
+      <ar-SY>عرض تأثير موضعي</ar-SY>
+      <hr>Pokaži pozicioniranje</hr>
+      <nl-BE>Toon plaatseffect</nl-BE>
+    </locusEffectCheckBox>
+    <rememberIconPositionsCheckBox>
+      <default>Remember icon positions</default>
+      <de>Icon-Position merken</de>
+      <it>Ricorda posizioni icone</it>
+      <sl>spominjati se ikona lega</sl>
+      <ja>アイコン位置を記憶</ja>
+      <fi>Muista kuvakkeiden sijainnit</fi>
+      <zh-Hans>记得图标的立场</zh-Hans>
+      <pt-BR>Lembrar posição dos ícones</pt-BR>
+      <fr>Enregistrer position des icônes</fr>
+      <gl>Lembrar posición dos iconos</gl>
+      <es>Recordar posición de los iconos</es>
+      <ar-SY>تذكر مواقع الايقونة</ar-SY>
+      <hr>Zapamti položaj ikone</hr>
+      <nl-BE>Onthou laatste positie van het pictogram</nl-BE>
+    </rememberIconPositionsCheckBox>
+    <openWindowsExplorerCheckBox>
+      <default>Open Windows Explorer</default>
+      <de>Windows Explorer öffnen</de>
+      <it>Apri in Esplora risorse</it>
+      <sl>Plan okno raziskovalec</sl>
+      <ja>エクスプローラを開く</ja>
+      <fi>Avaa Windows Explorer</fi>
+      <zh-Hans>打开Windows资源管理</zh-Hans>
+      <pt-BR>Abrir o Windows Explorer</pt-BR>
+      <fr>Ouvrez l'Explorateur Windows</fr>
+      <gl>Abra el Explorador de Windows</gl>
+      <es>Abra el Explorador de Windows</es>
+      <ar-SY>فتح متصفح ويندوز</ar-SY>
+      <hr>Otvori Windows Explorer</hr>
+      <nl-BE>Open windows verkenner</nl-BE>
+    </openWindowsExplorerCheckBox>
+  </strings>
+</resources>
